@@ -4,6 +4,18 @@
 
 Built by [Harish Kotra](https://harishkotra.me) as part of a [DailyBuild](https://dailybuild.xyz) challenge.
 
+### Screenshots
+
+<img width="608" height="1080" alt="botspot" src="https://github.com/user-attachments/assets/ea2c2a44-40e0-4cf0-b00d-570360a44ce8" />
+<img width="1089" height="1088" alt="botspot-1" src="https://github.com/user-attachments/assets/f5c7bfc0-ebaa-4b0e-9023-f10c6900cdfd" />
+<img width="1078" height="1091" alt="botspot-2" src="https://github.com/user-attachments/assets/ad321a33-2881-41c4-be9c-699f31cf3910" />
+<img width="1046" height="1089" alt="botspot-3" src="https://github.com/user-attachments/assets/f5dc1514-277a-4894-a628-b4f60cfaf6da" />
+<img width="1046" height="1096" alt="botspot-4" src="https://github.com/user-attachments/assets/8126c25c-a1ed-4962-874d-a4f25a36cc22" />
+<img width="1069" height="1096" alt="botspot-5" src="https://github.com/user-attachments/assets/84aeaf88-7751-4e86-b96e-c20505c2823e" />
+<img width="1063" height="1095" alt="botspot-6" src="https://github.com/user-attachments/assets/d1b1f322-dc6a-47fc-bd06-45b52d92db92" />
+<img width="1100" height="1095" alt="botspot-7" src="https://github.com/user-attachments/assets/54714b82-d52b-4917-bba6-9b66dfa202fd" />
+<img width="1042" height="1091" alt="botspot-8" src="https://github.com/user-attachments/assets/32a271ac-1347-49cc-b57d-f4992d3d8b51" />
+
 ---
 
 ## Experience the Game
