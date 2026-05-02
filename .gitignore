@@ -1,0 +1,41 @@
+# Dependencies
+node_modules/
+.npm/
+
+# Build outputs
+build/
+dist/
+dist-ssr/
+*.local
+
+# Environment variables
+.env
+.env.production
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor/OS Specific
+.DS_Store
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Testing
+coverage/
+
+# AI Studio Specific
+firebase-applet-config.json
+firestore-blueprint.json
+DRAFT_firestore.rules
+security_spec.md
